@@ -1,3 +1,10 @@
 #display{
     text-align: center;
+    background-color: rgb(118, 105, 206);
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border: 2px solid salmon;
+    border-radius:10px ;
 }
